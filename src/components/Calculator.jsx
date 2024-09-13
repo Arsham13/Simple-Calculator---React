@@ -89,7 +89,7 @@ function Calculator() {
             <select value={operator} onChange={handleChange} name="operator" id="operator">
                 <option value="0">Select an operator</option>
                 <option value="+">Addtion (+)</option>
-                <option value="-">Substraction (-)</option>
+                <option value="-">Subtraction (-)</option>
                 <option value="×">Multiplication (×)</option>
                 <option value="÷">Division (÷)</option>
             </select>
